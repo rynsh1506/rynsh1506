@@ -1,8 +1,6 @@
 # Hi there, I'm Riyan! 👋
 ![Profile views](https://komarev.com/ghpvc/?username=rynsh1506&label=Profile%20Views&color=72a4f2&style=flat)
 
-![Cyberpunk Banner](https://tenor.com/id/view/pixel-art-gaming-pc-chill-guy-gif-201994295938337468)
-
 ## 🚀 About Me
 I'm a **Software Engineer** and **Backend Developer** focused on building high-performance systems and automation tools. I love exploring low-level engineering and crafting JSON-first solutions.
 
@@ -23,10 +21,11 @@ I'm a **Software Engineer** and **Backend Developer** focused on building high-p
 
 ---
 
-## ☕ Support My Work
-If you find my projects helpful or want to support my open-source journey, consider buying me a coffee!
+## 📫 Connect with Me & Support My Work
+If you find my projects helpful, want to collaborate, or support my open-source journey!
 
-[![Support me on Ko-fi](https://img.shields.io/badge/Support%20me%20on-Ko--fi-ff5e5b?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/X8X31YLACE)
+<a href="mailto:mriyansyah112@gmail.com"><img src="https://img.shields.io/badge/Email-mriyansyah112%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Riyan" /></a>
+<a href="https://ko-fi.com/X8X31YLACE"><img src="https://img.shields.io/badge/Support%20me%20on-Ko--fi-ff5e5b?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi" /></a>
 
 <br/>
 <p>
