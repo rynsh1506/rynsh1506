@@ -6,12 +6,12 @@
 </p>
 
 ## 🚀 About Me
-I'm a **Software Engineer** and **Backend Developer** focused on building high-performance systems and automation tools. I love exploring low-level engineering and crafting JSON-first solutions.
+Just a developer who enjoys building things and solving puzzles with code. I spend most of my time tinkering with backend systems, learning new technologies, and creating custom tools just for fun.
 
-- 🦀 Currently mastering **Rust** (Memory Management, Ownership, Borrowing).
-- 🛠️ Building **RinoDB** (Embedded JSON-First Database) and **Koda Editor**.
-- 🔭 Working with **NestJS**, **Tauri**, and **Docker**.
-- 🎮 Solo player in **Albion Online** (Dual Swords enjoyer!).
+- 💻 Mostly working with **Rust, TypeScript, and Backend Tech**.
+- 🛠️ Always working on some random side projects (like building my own database or editor).
+- 🐧 Linux user & open-source enthusiast.
+- 🎮 When I'm not coding, I'm probably grinding in **Albion Online**.
 
 ---
 
