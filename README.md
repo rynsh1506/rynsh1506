@@ -1,6 +1,12 @@
 # Hi there, I'm Riyan! 👋
 
-![Riyan's Cyberpunk Pixel Banner](https://image.not-provided.com/path-to-image_10.png)
+<p align="center">
+  <img src="https://i.pinimg.com/originals/e4/26/70/e42670edf874b181aced1e2fa5c6cdde.gif" alt="Cyberpunk Banner" width="100%">
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rynsh1506&label=Profile%20views&color=72a4f2&style=flat" alt="Profile views" />
+</p>
 
 ## 🚀 About Me
 I'm a **Software Engineer** and **Backend Developer** focused on building high-performance systems and automation tools. I love exploring low-level engineering and crafting JSON-first solutions.
@@ -30,9 +36,10 @@ If you find my projects helpful or want to support my open-source journey, consi
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Most Used Languages
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rynsh1506&show_icons=true&theme=tokyonight" alt="Riyan's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rynsh1506&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
