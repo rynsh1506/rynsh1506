@@ -32,12 +32,11 @@ If you find my projects helpful or want to support my open-source journey, consi
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=tokyonight" alt="Riyan's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rynsh1506&show_icons=true&theme=tokyonight" alt="Riyan's Stats" />
 </p>
 
 ---
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">LinkedIn</a> •
-  <a href="https://github.com/YOUR_USERNAME_HERE">GitHub</a>
+  <a href="https://github.com/rynsh1506">GitHub</a>
 </p>
