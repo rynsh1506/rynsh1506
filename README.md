@@ -28,10 +28,9 @@ Just a developer who enjoys building things and solving puzzles with code. I spe
 ## 📫 Connect with Me & Support My Work
 If you find my projects helpful, want to collaborate, or support my open-source journey!
 
-<a href="mailto:mriyansyah112@gmail.com"><img src="https://img.shields.io/badge/Email-mriyansyah112%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Riyan" /></a>
-<a href="https://ko-fi.com/X8X31YLACE"><img src="https://img.shields.io/badge/Support%20me%20on-Ko--fi-ff5e5b?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi" /></a>
-
-<br/>
-<p>
-  <a href="https://github.com/rynsh1506">@rynsh1506</a>
+<p align="left">
+  <a href="mailto:mriyansyah112@gmail.com"><img src="https://img.shields.io/badge/Email-mriyansyah112%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Riyan" /></a>
+  <a href="https://www.linkedin.com/in/USERNAME_LINKEDIN_KAMU/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/rynsh1506"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://ko-fi.com/X8X31YLACE"><img src="https://img.shields.io/badge/Support%20me%20on-Ko--fi-ff5e5b?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi" /></a>
 </p>
