@@ -2,7 +2,7 @@
 ![Profile views](https://komarev.com/ghpvc/?username=rynsh1506&label=Profile%20Views&color=72a4f2&style=flat)
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/e4/26/70/e42670edf874b181aced1e2fa5c6cdde.gif" alt="Cyberpunk Banner" width="100%">
+  <img src="https://tenor.com/id/view/pixel-art-gaming-pc-chill-guy-gif-201994295938337468" alt="Cyberpunk Banner" width="100%">
 </p>
 
 ## 🚀 About Me
