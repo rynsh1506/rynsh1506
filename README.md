@@ -1,6 +1,6 @@
 # Hi there, I'm Riyan! 👋
 
-![Banner](https://capsule-render.vercel.app/render?type=waving&color=72a4f2&height=200&section=header&text=Software%20Engineer&fontSize=60&animation=fadeIn&fontAlignY=38)
+![Riyan's Cyberpunk Pixel Banner](https://image.not-provided.com/path-to-image_10.png)
 
 ## 🚀 About Me
 I'm a **Software Engineer** and **Backend Developer** focused on building high-performance systems and automation tools. I love exploring low-level engineering and crafting JSON-first solutions.
