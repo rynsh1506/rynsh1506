@@ -1,6 +1,10 @@
 # Hi there, I'm Riyan! 👋
 ![Profile views](https://komarev.com/ghpvc/?username=rynsh1506&label=Profile%20Views&color=72a4f2&style=flat)
 
+<p align="center">
+  <img src="https://i.pinimg.com/originals/e4/26/70/e42670edf874b181aced1e2fa5c6cdde.gif" alt="Cyberpunk Banner" width="100%">
+</p>
+
 ## 🚀 About Me
 I'm a **Software Engineer** and **Backend Developer** focused on building high-performance systems and automation tools. I love exploring low-level engineering and crafting JSON-first solutions.
 
