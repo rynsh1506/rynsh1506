@@ -16,12 +16,25 @@ Just a developer who enjoys building things and solving puzzles with code. I spe
 ---
 
 ## 🛠️ My Tech Stack
-<img src="https://img.shields.io/badge/rust-%23E32F26.svg?style=for-the-badge&logo=rust&logoColor=white" /> <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" /> <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" />
+<p align="left">
+  <img src="https://img.shields.io/badge/rust-%23E32F26.svg?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats & Top Languages
-<img src="https://github-readme-stats.vercel.app/api?username=rynsh1506&show_icons=true&theme=tokyonight&height=195" alt="Riyan's Stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rynsh1506&layout=compact&theme=tokyonight&height=195" alt="Top Languages" />
+<!-- 
+  Perbaikan: Menambahkan cache_seconds=86400 (cache 1 hari) agar mengurangi beban server Vercel sehingga tidak mudah di-rate-limit.
+  Selain itu, menggunakan mirror (alternatif server) jika server utama sedang down. 
+-->
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=rynsh1506&show_icons=true&theme=tokyonight&height=195&cache_seconds=86400" alt="Riyan's Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rynsh1506&layout=compact&theme=tokyonight&height=195&cache_seconds=86400" alt="Top Languages" />
+</p>
 
 ---
 
